@@ -18,7 +18,7 @@
 			"id": 1,
 			"textColor": "Black",
 			"backgroundColor": "White",
-			"description": "It had a simple layout - games were made up of rooms. Each room contained some text, and up to four links to other rooms in four directions: North, South, East and West. It was easy to understand, efficien for prototyping, and the directional component brought a sense of physical space to lofi interactive fiction.",
+			"description": "It had a simple layout - games were made up of rooms. Each room contained some text, and up to four links to other rooms in four directions: North, South, East and West. It was easy to understand, efficient for prototyping, and the directional component brought a sense of physical space to lofi interactive fiction.",
 			"south": {
 				"label": "Oh, cool!",
 				"linkTo": 0
