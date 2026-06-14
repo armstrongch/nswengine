@@ -1,5 +1,5 @@
 #intro
-This engine was created by Peb. Peb disappeared from the internet in May or June 2026. This is a re-upload of his nswengine, since it is no longer available online.
+This engine was created by Peb. Peb disappeared from the internet in May or June 2026. This is a re-upload of Peb's nswengine, since it is no longer available online. Below is Peb's original README file.
 
 # nswengine
 

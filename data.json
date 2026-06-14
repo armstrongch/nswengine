@@ -4,7 +4,7 @@
 			"id": 0,
 			"textColor": "Black",
 			"backgroundColor": "White",
-			"description": "In 2025, a game designer named Peb had a dream about coding a game engine. So they did. It was free and it was cool. It was called 'nwsengine'"
+			"description": "In 2025, a game designer named Peb had a dream about coding a game engine. So they did. It was free and it was cool. It was called 'nswengine'"
 			"north": {
 				"label": "What was cool about it?",
 				"linkto": 1
@@ -28,7 +28,7 @@
 			"id": 2,
 			"textColor": "Black",
 			"backgroundColor": "White",
-			"description": "Some May or early June of 2026, Peb disappeared. All of his accounts were deleted - including github and itch.io, where the nwsengine was hosted."
+			"description": "Some May or early June of 2026, Peb disappeared. All of his accounts were deleted - including github and itch.io, where the nswengine was hosted."
 			"north": {
 				"label": "Oh no!",
 				"linkto": 3
