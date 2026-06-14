@@ -12,7 +12,7 @@
 			"east": {
 				"label": "And then what happened?",
 				"linkto": 2
-			},
+			}
 		},
 		{
 			"id": 1,
@@ -22,7 +22,7 @@
 			"south": {
 				"label": "Oh, cool!",
 				"linkto": 0
-			},
+			}
 		},
 		{
 			"id": 2,
@@ -32,7 +32,7 @@
 			"north": {
 				"label": "Oh no!",
 				"linkto": 3
-			},
+			}
 		},
 		{
 			"id": 3,
