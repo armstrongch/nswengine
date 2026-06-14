@@ -18,7 +18,7 @@
 			"id": 1,
 			"textColor": "Black",
 			"backgroundColor": "White",
-			"description": "It had a simple layout - games were made up of rooms. Each room contained some text, and up to four links to other rooms in four directions: North, South, East and West. It was easy to understand, quick to create prototypes, and the directional component made it easy for players to grasp and navigate interactive fiction - a genre often not anchored in physical space.",
+			"description": "It had a simple layout - games were made up of rooms. Each room contained some text, and up to four links to other rooms in four directions: North, South, East and West. It was easy to understand, efficien for prototyping, and the directional component brought a sense of physical space to lofi interactive fiction.",
 			"south": {
 				"label": "Oh, cool!",
 				"linkTo": 0
@@ -28,7 +28,7 @@
 			"id": 2,
 			"textColor": "Black",
 			"backgroundColor": "White",
-			"description": "Some May or early June of 2026, Peb disappeared. All of his accounts were deleted - including github and itch.io, where the nswengine was hosted.",
+			"description": "Some time in May or early June of 2026, Peb disappeared. All of his accounts were deleted - including github and itch.io, where the nswengine was hosted.",
 			"north": {
 				"label": "Oh no!",
 				"linkTo": 3
