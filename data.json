@@ -7,11 +7,11 @@
 			"description": "In 2025, a game designer named Peb had a dream about coding a game engine. So they did. It was free and it was cool. It was called 'nswengine'",
 			"north": {
 				"label": "What was cool about it?",
-				"linkto": 1
+				"linkTo": 1
 			},
 			"east": {
 				"label": "And then what happened?",
-				"linkto": 2
+				"linkTo": 2
 			}
 		},
 		{
@@ -21,7 +21,7 @@
 			"description": "It had a simple layout - games were made up of rooms. Each room contained some text, and up to four links to other rooms in four directions: North, South, East and West. It was easy to understand, quick to create prototypes, and the directional component made it easy for players to grasp and navigate interactive fiction - a genre often not anchored in physical space.",
 			"south": {
 				"label": "Oh, cool!",
-				"linkto": 0
+				"linkTo": 0
 			}
 		},
 		{
@@ -31,7 +31,7 @@
 			"description": "Some May or early June of 2026, Peb disappeared. All of his accounts were deleted - including github and itch.io, where the nswengine was hosted.",
 			"north": {
 				"label": "Oh no!",
-				"linkto": 3
+				"linkTo": 3
 			}
 		},
 		{
