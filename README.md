@@ -1,6 +1,3 @@
-#intro
-This engine was created by Peb. Peb disappeared from the internet in May or June 2026. This is a re-upload of Peb's nswengine, since it is no longer available online. Below is Peb's original README file.
-
 # nswengine
 
 nswengine is a dumb-as-rocks engine for creating four-directional text-based games
@@ -42,6 +39,7 @@ every room must have
 - a `description` - string of text that will be displayed in the center of the room
 
 every room can (but doesn't have to) have
+
 - a `textColor` - this can be a html color name or a hex or rgb/ rgba value. if no color is provided text will display with default color
 - a `backgroundColor` - this can be a html color name or a hex or rgb/ rgba value. if no color is provided background will display with default color
 
@@ -51,6 +49,8 @@ every exit must have
 
 - a `label` - text that will be displayed for that exit
 - a `linkTo` - id of the room that the exit links to
+
+if you do not include any exit in a room, the player will not be able to leave it, making that room an "end state" for your game
 
 also, the starting room serves as the game's "title screen", the game does not have any state management outside switching between rooms
 
