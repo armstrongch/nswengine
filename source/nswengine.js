@@ -1,8 +1,7 @@
-import Debug from "./debug.js";
-import { isColor } from "./utilities.js";
+//import Debug from "./debug.js";
+//import { isColor } from "./utilities.js";
 
-export default class NSWEngine {
-  #dataFilePath = "./data.json";
+class NSWEngine {
   #imagesPath = "";
   #images = [];
   #soundsPath = "";
@@ -17,9 +16,6 @@ export default class NSWEngine {
 
   constructor() {
     this.addButtonOnClickEvents();
-  }
-  get dataFilePath() {
-    return this.#dataFilePath;
   }
   get imagesPath() {
     return this.#imagesPath;
@@ -138,7 +134,7 @@ export default class NSWEngine {
   }
   start(game) {
     this.game = game;
-    this.data = game.content.data;
+    this.data = data;
     this.currentRoomId = 0;
     this.displayCurrentRoom();
   }

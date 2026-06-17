@@ -1,9 +1,9 @@
-import Debug from "./debug.js";
-import InputManager from "./input.js";
-import ContentManager from "./content.js";
-import SoundManager from "./sound.js";
+//import Debug from "./debug.js";
+///import InputManager from "./input.js";
+///import ContentManager from "./content.js";
+///import SoundManager from "./sound.js";
 
-export default class Game {
+class Game {
   #lastUpdateTime = Date.now();
   #updateRate = 15;
   #startingScene;

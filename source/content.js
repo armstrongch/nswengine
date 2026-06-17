@@ -1,14 +1,14 @@
-import {
+/*import {
   arrayContains,
   isBool,
   isFunction,
   isNonEmptyString,
   noCacheInit,
   removeFromArray,
-} from "./utilities.js";
-import Debug from "./debug.js";
+} from "./utilities.js";*/
+//import Debug from "./debug.js";
 
-export default class ContentManager {
+class ContentManager {
   #assetsCurrentlyLoading = [];
   #loadingAllAssetsWasTriggered = false;
   #onFinishedLoading;

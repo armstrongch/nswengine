@@ -1,6 +1,6 @@
-import { cloneArray } from "./utilities.js";
+//import { cloneArray } from "./utilities.js";
 
-export default class InputManager {
+class InputManager {
   #keys;
   #keysDown;
   #currentKeysDown;

@@ -1,6 +1,6 @@
-import { clamp } from "./utilities.js";
+//import { clamp } from "./utilities.js";
 
-export default class SoundManager {
+class SoundManager {
   constructor() {
     this.sfxVolume = 0.5;
     this.musicVolume = 0.5;

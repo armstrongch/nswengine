@@ -1,4 +1,4 @@
-export default class Debug {
+class Debug {
   /**
    * the static log() method from this class should be used for logging
    * everywhere in the codebase to avoid memory leaks. do not use console.log()!!!
